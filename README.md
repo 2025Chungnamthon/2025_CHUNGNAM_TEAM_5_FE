@@ -68,4 +68,14 @@
   
 <img src="https://github.com/user-attachments/assets/e80f1af0-aeb5-44d9-a2bf-1274938c2eef" width="800px">
 
+<br><br>
+
+  <table>
+    <tr>
+      <td><b>Repository 바로가기</b></td>
+      <td><a href="https://github.com/2025Chungnamthon/2025_CHUNGNAM_TEAM_5_FE">🎨 FrontEnd Repo</a></td>
+      <td><a href="https://github.com/2025Chungnamthon/2025_CHUNGNAM_TEAM_5_BE">⚙️ BackEnd Repo</a></td>
+    </tr>
+  </table>
+
 </div>
